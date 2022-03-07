@@ -2,7 +2,7 @@ Hello,
 
 Thank you for viewing my project!
 
-Executed with RaspberryPi aand terminal.
+Executed with RaspberryPi and terminal.
 
 Steps: 
 
